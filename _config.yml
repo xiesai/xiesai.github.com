@@ -23,9 +23,9 @@ social:
     - icon: fa-weixin
       link: "#"
     - icon: fa-envelope
-	    link: "#"
+      link: "https://github.com/xiesai"
     - icon: fa-share-alt
-	    link: "#"
+      link: "https://github.com/xiesai"
 share:
   twitter_username: agusmakmun6
   fb_appid: 1749788565247320
