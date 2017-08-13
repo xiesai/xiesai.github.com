@@ -16,17 +16,16 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
+    - icon: fa-weixin
       link: "#"
+	- icon: fa-envelope
+	- link: "#"
     - icon: fa-github
       link: "https://github.com/xiesai"
-
+	- icon: fa-share-alt
+	- link: "#"
 share:
   twitter_username: agusmakmun6
   fb_appid: 1749788565247320
