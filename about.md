@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+谢赛，2014年毕业于东北大学通信与信息系统专业，目前就职于华为CloudBU运营部
 
-email: agus[at]python.web.id
+email: xiesai@huawei.com
