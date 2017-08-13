@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div style="float:left">
-<img src="./static/img/xiesai_aboutme.jpg"/>
-</div>
+![me](/static/img/xiesai_aboutme.jpg)
 <div>
 <p>谢赛</p>
 <p>2017年毕业于东北大学通信与信息系统专业</p>
