@@ -20,12 +20,8 @@ social:
       link: "https://www.linkedin.com/in/summonagus"
     - icon: fa-weixin
       link: "#"
-	- icon: fa-envelope
-	- link: "#"
     - icon: fa-github
       link: "https://github.com/xiesai"
-	- icon: fa-share-alt
-	- link: "#"
 share:
   twitter_username: agusmakmun6
   fb_appid: 1749788565247320
