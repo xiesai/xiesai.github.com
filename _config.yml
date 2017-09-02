@@ -31,9 +31,9 @@ share:
   fb_appid: 1749788565247320
 
 urls:
-    - text: 关于
+    - text: about
       url: /about/
-    - text: 项目
+    - text: project
       url: /projects/
     - text: XML
       url: /feed.xml
